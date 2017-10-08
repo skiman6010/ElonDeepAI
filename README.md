@@ -8,7 +8,7 @@ He can be found at https://twitter.com/ElonDeepAI.
 
 Check the license file for the license.
 
-##TODO
+## TODO
 - Upload pre-trained data
 - Explain setup
 - Make it a clean dataset
