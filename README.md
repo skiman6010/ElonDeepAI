@@ -5,3 +5,5 @@ This is my attempt to create a coherent sounding Elon Musk bot by training a rec
 Although improvement is observable, it is still in the early stages.
 
 He can be found at https://twitter.com/ElonDeepAI.
+
+Check the license file for the license.
