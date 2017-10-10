@@ -19,7 +19,7 @@ This bot is built on top of Hunkim's Word RNN Tensorflow [repo](https://github.c
 
 Install Tweepy with this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library).
 
-Replace the sample.py from Hunkim's repo with mine and add twitterbot_ai.py to the folder. 
+Replace the sample.py and train.py from Hunkim's repo with mine and add twitterbot_ai.py to the folder. Add the elonmusk folder to the data folder. 
 
 Run twitterbot_ai.py and it will generate and send a tweet to your account.
 
